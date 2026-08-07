@@ -1,5 +1,7 @@
 from faker import Faker
 import random
+from datetime import date, timedelta
+import pandas as pd
 
 customers = {
     'customer_id' : [i for i in range(1, 50+1)], # primary key
@@ -49,4 +51,17 @@ for i in range(50):
     customers['city'].append(city)
 
 # join_date
-  
+start_date = date(2024, 1, 1)
+end_date = date(2024, 12, 31)
+days_range = (end_date - start_date).days
+
+dates = sorted([start_date + timedelta(days=random.randint(0, days_range)) for _ in range(50)])
+
+for date in dates:
+    customers['join_date'].append(date.strftime("%Y-%m-%d"))
+
+# insert into csv file
+df = pd.DataFrame(customers)
+df.to_csv('customers.csv', index=False)
+print('done✅')
+
