@@ -1,0 +1,12 @@
+{
+    "categories" : {
+        "Electronics" : [ "Samsung", "Apple", "Dell", "HP", "Lenovo", "Asus", "Acer", "Sony", "LG", "Logitech"],
+        "Clothing" : ["Nike", "Adidas", "Puma", "Levi's", "H&M", "Zara", "Allen Solly", "Van Heusen", "US Polo Assn.", "Wrangler"],
+        "Home & Kitchen" : ["Prestige", "Philips", "Milton", "Cello", "Bajaj", "Pigeon", "Hawkins", "Butterfly", "Wonderchef", "Borosil"]
+    },
+    "items" : {
+        "Electronics_products" : ["Smartphone", "Laptop", "Tablet", "Desktop PC", "Monitor", "Keyboard", "Mouse", "Headphones", "Earbuds", "Bluetooth Speaker", "Smartwatch", "Fitness Band", "Printer", "Scanner", "Webcam", "Microphone", "Power Bank", "Charger", "USB Cable", "External Hard Drive", "SSD", "USB Flash Drive", "Wi-Fi Router", "Network Switch", "Projector", "Smart TV", "Streaming Device", "Digital Camera", "DSLR Camera", "Security Camera", "Drone", "Gaming Console", "Graphics Card", "RAM", "Motherboard", "CPU", "UPS", "Extension Board", "Air Conditioner", "Vacuum Cleaner"],
+        "Clothing_items" : ["T-Shirt", "Shirt", "Polo Shirt", "Hoodie", "Sweatshirt", "Jacket", "Blazer", "Jeans", "Trousers", "Chinos", "Cargo Pants", "Track Pants", "Shorts", "Kurta", "Kurti", "Saree", "Dress", "Skirt", "Leggings", "Sweater", "Coat", "Suit", "Suit Set", "Waistcoat", "Night Suit", "Pyjamas", "Innerwear", "Socks", "Cap", "Beanie", "Scarf", "Gloves", "Belt", "Wallet", "Handbag", "Backpack", "Sneakers", "Running Shoes", "Sandals", "Slippers"],
+        "Home_kitchen_products" : ["Pressure Cooker", "Non-Stick Pan", "Frying Pan", "Cookware Set", "Gas Stove", "Induction Cooktop", "Mixer Grinder", "Air Fryer", "Microwave Oven", "Electric Kettle", "Toaster", "Rice Cooker", "Water Purifier", "Water Bottle", "Water Jug", "Lunch Box", "Storage Container", "Knife Set", "Cutting Board", "Dinner Set", "Plate Set", "Bowl Set", "Glass Set", "Coffee Mug", "Vacuum Flask", "Dish Rack", "Dustbin", "Floor Mop", "Broom", "Steam Iron", "Ceiling Fan", "Table Fan", "Room Heater", "Air Cooler", "LED Bulb", "Emergency Light", "Extension Board", "Wall Clock", "Bedsheet", "Pillow"]
+    }
+}
