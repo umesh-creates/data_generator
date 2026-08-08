@@ -16,11 +16,24 @@ products = {
 with open('catalog.json') as f:
     catalog = json.load(f)
 
-for category in catalog['categories']:
-    print(category)
-    for brand in catalog[]
+for electronic_product in list(catalog['items']['Electronics_products'].keys())[:20]:
+    pass
+    # print(electronic_product) # product_name
+    # print(list(catalog['categories'].keys())[0]) # category
+    # print(random.choice(list(catalog['categories']['Electronics'].keys()))) # brand
 
-# print(random.choice(list[catalog['devices'].keys()]))
+for clothing_item in list(catalog['items']['Clothing_items'].keys())[:20]:
+    pass
+    # print(clothing_item) 
+    # print(list(catalog['categories'].keys())[1])
+    # print(random.choice(list(catalog['categories']['Clothing'].keys())))
+
+for home_products in list(catalog['items']['Home_kitchen_products'].keys())[:10]:
+    # pass
+    print(home_products)
+    print(list(catalog['categories'].keys())[2])
+    print(random.choice(list(catalog['categories']['Home & Kitchen'].keys())))
 
 # cost_price
+
 # selling_price
