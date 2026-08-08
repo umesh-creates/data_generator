@@ -64,4 +64,3 @@ for date in dates:
 df = pd.DataFrame(customers)
 df.to_csv('customers.csv', index=False)
 print('done✅')
-
