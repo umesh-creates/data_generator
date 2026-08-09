@@ -9,10 +9,13 @@ quantity random between (1 to 10)
 '''
 order_items = {
     'order_item_id' : [f"ORD_ITEM{i:02d}" for i in range(1, 1001)],
-    'order_id' : [],
+    'order_id' : [f"ORD_ID{i:02d}" for i in range(1, 1001)],
     'product_id' : [],
     'quantity' : []
 }
+for _ in range(1000):
+    product_id = random.randint(1,50)
+    order_items['product_id'].append(f"P_ID{product_id}")
 
 for _ in range(1000):
     rand_product_id = random.randrange(1,51)
@@ -21,3 +24,6 @@ for _ in range(1000):
 for _ in range(1000):
     rand_quantity = random.randrange(1,11)
     order_items['quantity'].append(rand_quantity)
+
+pd.DataFrame(order_items).to_csv('order_items.csv', index=False)
+print('DONE ✅')
