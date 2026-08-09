@@ -1,0 +1,1001 @@
+order_id,customer_id,order_date,payment_mode,order_status
+ORD_ID01,cust_id30,2025-01-01,UPI,Cancelled
+ORD_ID02,cust_id14,2025-01-01,Credit card,Pending
+ORD_ID03,cust_id35,2025-01-02,Debit Card,Delivered
+ORD_ID04,cust_id50,2025-01-02,Debit Card,Delivered
+ORD_ID05,cust_id23,2025-01-03,Debit Card,Cancelled
+ORD_ID06,cust_id04,2025-01-04,Cash,Delivered
+ORD_ID07,cust_id34,2025-01-04,Cash,Delivered
+ORD_ID08,cust_id01,2025-01-04,Cash,Shipped
+ORD_ID09,cust_id47,2025-01-04,Debit Card,Delivered
+ORD_ID10,cust_id44,2025-01-05,Credit card,Delivered
+ORD_ID11,cust_id05,2025-01-05,UPI,Delivered
+ORD_ID12,cust_id27,2025-01-06,Debit Card,Confirmed
+ORD_ID13,cust_id28,2025-01-06,UPI,Delivered
+ORD_ID14,cust_id27,2025-01-06,Credit card,Delivered
+ORD_ID15,cust_id11,2025-01-06,Debit Card,Confirmed
+ORD_ID16,cust_id23,2025-01-07,Debit Card,Delivered
+ORD_ID17,cust_id42,2025-01-07,Debit Card,Delivered
+ORD_ID18,cust_id26,2025-01-08,UPI,Shipped
+ORD_ID19,cust_id17,2025-01-09,Debit Card,Confirmed
+ORD_ID20,cust_id12,2025-01-09,Cash,Confirmed
+ORD_ID21,cust_id10,2025-01-09,Debit Card,Delivered
+ORD_ID22,cust_id50,2025-01-09,Credit card,Confirmed
+ORD_ID23,cust_id36,2025-01-09,UPI,Delivered
+ORD_ID24,cust_id48,2025-01-10,UPI,Delivered
+ORD_ID25,cust_id42,2025-01-10,UPI,Delivered
+ORD_ID26,cust_id02,2025-01-10,Cash,Delivered
+ORD_ID27,cust_id35,2025-01-10,UPI,Shipped
+ORD_ID28,cust_id02,2025-01-11,Debit Card,Delivered
+ORD_ID29,cust_id36,2025-01-11,UPI,Delivered
+ORD_ID30,cust_id34,2025-01-12,UPI,Delivered
+ORD_ID31,cust_id30,2025-01-12,Debit Card,Cancelled
+ORD_ID32,cust_id38,2025-01-13,Credit card,Delivered
+ORD_ID33,cust_id34,2025-01-13,Debit Card,Pending
+ORD_ID34,cust_id49,2025-01-14,UPI,Cancelled
+ORD_ID35,cust_id41,2025-01-14,UPI,Confirmed
+ORD_ID36,cust_id10,2025-01-14,Debit Card,Shipped
+ORD_ID37,cust_id46,2025-01-14,UPI,Confirmed
+ORD_ID38,cust_id46,2025-01-14,UPI,Delivered
+ORD_ID39,cust_id17,2025-01-14,Debit Card,Cancelled
+ORD_ID40,cust_id18,2025-01-14,Cash,Cancelled
+ORD_ID41,cust_id11,2025-01-14,UPI,Delivered
+ORD_ID42,cust_id25,2025-01-16,UPI,Shipped
+ORD_ID43,cust_id21,2025-01-16,Cash,Shipped
+ORD_ID44,cust_id39,2025-01-16,Debit Card,Delivered
+ORD_ID45,cust_id17,2025-01-17,Cash,Pending
+ORD_ID46,cust_id33,2025-01-17,Debit Card,Returned
+ORD_ID47,cust_id13,2025-01-17,Credit card,Shipped
+ORD_ID48,cust_id21,2025-01-18,Credit card,Delivered
+ORD_ID49,cust_id10,2025-01-19,Credit card,Pending
+ORD_ID50,cust_id30,2025-01-19,Debit Card,Delivered
+ORD_ID51,cust_id06,2025-01-20,Debit Card,Returned
+ORD_ID52,cust_id10,2025-01-20,UPI,Delivered
+ORD_ID53,cust_id16,2025-01-21,UPI,Confirmed
+ORD_ID54,cust_id21,2025-01-21,Debit Card,Delivered
+ORD_ID55,cust_id38,2025-01-22,Cash,Cancelled
+ORD_ID56,cust_id12,2025-01-23,Credit card,Pending
+ORD_ID57,cust_id30,2025-01-23,Credit card,Delivered
+ORD_ID58,cust_id04,2025-01-24,Credit card,Pending
+ORD_ID59,cust_id36,2025-01-24,Credit card,Delivered
+ORD_ID60,cust_id45,2025-01-24,Credit card,Delivered
+ORD_ID61,cust_id37,2025-01-24,Debit Card,Delivered
+ORD_ID62,cust_id26,2025-01-24,Credit card,Delivered
+ORD_ID63,cust_id28,2025-01-25,Debit Card,Delivered
+ORD_ID64,cust_id18,2025-01-25,Debit Card,Delivered
+ORD_ID65,cust_id31,2025-01-26,Credit card,Shipped
+ORD_ID66,cust_id44,2025-01-27,Debit Card,Confirmed
+ORD_ID67,cust_id30,2025-01-27,Cash,Delivered
+ORD_ID68,cust_id18,2025-01-27,Debit Card,Delivered
+ORD_ID69,cust_id44,2025-01-27,Cash,Shipped
+ORD_ID70,cust_id46,2025-01-27,Cash,Delivered
+ORD_ID71,cust_id06,2025-01-28,Credit card,Delivered
+ORD_ID72,cust_id23,2025-01-29,Cash,Confirmed
+ORD_ID73,cust_id40,2025-01-29,UPI,Delivered
+ORD_ID74,cust_id36,2025-01-29,Credit card,Delivered
+ORD_ID75,cust_id28,2025-01-30,Cash,Delivered
+ORD_ID76,cust_id07,2025-01-30,Credit card,Delivered
+ORD_ID77,cust_id04,2025-01-30,Credit card,Delivered
+ORD_ID78,cust_id05,2025-01-30,UPI,Confirmed
+ORD_ID79,cust_id38,2025-01-31,Cash,Shipped
+ORD_ID80,cust_id18,2025-01-31,UPI,Delivered
+ORD_ID81,cust_id13,2025-01-31,Cash,Delivered
+ORD_ID82,cust_id17,2025-01-31,UPI,Shipped
+ORD_ID83,cust_id33,2025-02-01,Debit Card,Delivered
+ORD_ID84,cust_id07,2025-02-01,Debit Card,Shipped
+ORD_ID85,cust_id34,2025-02-02,Cash,Delivered
+ORD_ID86,cust_id38,2025-02-02,Credit card,Delivered
+ORD_ID87,cust_id08,2025-02-02,Debit Card,Delivered
+ORD_ID88,cust_id38,2025-02-02,Cash,Delivered
+ORD_ID89,cust_id07,2025-02-02,UPI,Delivered
+ORD_ID90,cust_id10,2025-02-02,Cash,Cancelled
+ORD_ID91,cust_id25,2025-02-03,Credit card,Delivered
+ORD_ID92,cust_id29,2025-02-03,Debit Card,Delivered
+ORD_ID93,cust_id49,2025-02-03,UPI,Delivered
+ORD_ID94,cust_id05,2025-02-03,Debit Card,Delivered
+ORD_ID95,cust_id40,2025-02-03,UPI,Delivered
+ORD_ID96,cust_id30,2025-02-03,Debit Card,Returned
+ORD_ID97,cust_id24,2025-02-04,Cash,Cancelled
+ORD_ID98,cust_id22,2025-02-04,Credit card,Delivered
+ORD_ID99,cust_id20,2025-02-04,Credit card,Delivered
+ORD_ID100,cust_id10,2025-02-05,Credit card,Confirmed
+ORD_ID101,cust_id01,2025-02-05,Cash,Delivered
+ORD_ID102,cust_id40,2025-02-05,Debit Card,Delivered
+ORD_ID103,cust_id07,2025-02-05,Credit card,Delivered
+ORD_ID104,cust_id42,2025-02-06,Debit Card,Delivered
+ORD_ID105,cust_id26,2025-02-06,Credit card,Confirmed
+ORD_ID106,cust_id03,2025-02-06,Cash,Delivered
+ORD_ID107,cust_id06,2025-02-06,UPI,Delivered
+ORD_ID108,cust_id24,2025-02-06,Debit Card,Delivered
+ORD_ID109,cust_id38,2025-02-07,Credit card,Delivered
+ORD_ID110,cust_id18,2025-02-07,Credit card,Delivered
+ORD_ID111,cust_id34,2025-02-07,UPI,Delivered
+ORD_ID112,cust_id25,2025-02-07,Cash,Shipped
+ORD_ID113,cust_id44,2025-02-07,Cash,Delivered
+ORD_ID114,cust_id50,2025-02-08,Debit Card,Delivered
+ORD_ID115,cust_id03,2025-02-08,Cash,Delivered
+ORD_ID116,cust_id32,2025-02-09,Credit card,Delivered
+ORD_ID117,cust_id43,2025-02-09,Cash,Delivered
+ORD_ID118,cust_id17,2025-02-09,Credit card,Confirmed
+ORD_ID119,cust_id14,2025-02-11,Cash,Delivered
+ORD_ID120,cust_id38,2025-02-11,Debit Card,Shipped
+ORD_ID121,cust_id08,2025-02-12,UPI,Delivered
+ORD_ID122,cust_id33,2025-02-12,Credit card,Pending
+ORD_ID123,cust_id23,2025-02-12,Cash,Delivered
+ORD_ID124,cust_id39,2025-02-12,Cash,Delivered
+ORD_ID125,cust_id33,2025-02-12,Debit Card,Delivered
+ORD_ID126,cust_id45,2025-02-13,Debit Card,Delivered
+ORD_ID127,cust_id38,2025-02-14,Cash,Cancelled
+ORD_ID128,cust_id38,2025-02-15,Credit card,Delivered
+ORD_ID129,cust_id33,2025-02-15,Debit Card,Delivered
+ORD_ID130,cust_id18,2025-02-16,Debit Card,Cancelled
+ORD_ID131,cust_id40,2025-02-16,Cash,Delivered
+ORD_ID132,cust_id46,2025-02-16,Cash,Delivered
+ORD_ID133,cust_id29,2025-02-17,UPI,Delivered
+ORD_ID134,cust_id27,2025-02-17,UPI,Delivered
+ORD_ID135,cust_id29,2025-02-17,Cash,Delivered
+ORD_ID136,cust_id15,2025-02-18,UPI,Shipped
+ORD_ID137,cust_id32,2025-02-18,Debit Card,Delivered
+ORD_ID138,cust_id48,2025-02-18,Cash,Delivered
+ORD_ID139,cust_id41,2025-02-18,Credit card,Pending
+ORD_ID140,cust_id47,2025-02-19,Cash,Confirmed
+ORD_ID141,cust_id30,2025-02-19,Credit card,Delivered
+ORD_ID142,cust_id04,2025-02-19,Debit Card,Delivered
+ORD_ID143,cust_id27,2025-02-20,Debit Card,Confirmed
+ORD_ID144,cust_id35,2025-02-20,Debit Card,Pending
+ORD_ID145,cust_id36,2025-02-20,Debit Card,Delivered
+ORD_ID146,cust_id20,2025-02-20,Debit Card,Shipped
+ORD_ID147,cust_id03,2025-02-20,Cash,Shipped
+ORD_ID148,cust_id08,2025-02-21,Debit Card,Delivered
+ORD_ID149,cust_id17,2025-02-21,Credit card,Delivered
+ORD_ID150,cust_id11,2025-02-21,Debit Card,Returned
+ORD_ID151,cust_id22,2025-02-22,Credit card,Cancelled
+ORD_ID152,cust_id34,2025-02-22,Credit card,Confirmed
+ORD_ID153,cust_id17,2025-02-22,UPI,Confirmed
+ORD_ID154,cust_id02,2025-02-22,Credit card,Pending
+ORD_ID155,cust_id10,2025-02-24,UPI,Delivered
+ORD_ID156,cust_id12,2025-02-24,UPI,Delivered
+ORD_ID157,cust_id39,2025-02-24,Cash,Delivered
+ORD_ID158,cust_id39,2025-02-24,Credit card,Confirmed
+ORD_ID159,cust_id01,2025-02-25,UPI,Delivered
+ORD_ID160,cust_id15,2025-02-25,Cash,Delivered
+ORD_ID161,cust_id15,2025-02-25,Credit card,Confirmed
+ORD_ID162,cust_id40,2025-02-26,Debit Card,Delivered
+ORD_ID163,cust_id24,2025-02-26,UPI,Pending
+ORD_ID164,cust_id19,2025-02-26,Credit card,Shipped
+ORD_ID165,cust_id25,2025-02-26,Debit Card,Delivered
+ORD_ID166,cust_id22,2025-02-27,Cash,Delivered
+ORD_ID167,cust_id19,2025-02-27,Cash,Returned
+ORD_ID168,cust_id28,2025-02-27,Credit card,Delivered
+ORD_ID169,cust_id47,2025-02-27,Debit Card,Shipped
+ORD_ID170,cust_id47,2025-02-27,UPI,Delivered
+ORD_ID171,cust_id31,2025-02-28,Credit card,Delivered
+ORD_ID172,cust_id29,2025-02-28,UPI,Delivered
+ORD_ID173,cust_id20,2025-03-01,Cash,Confirmed
+ORD_ID174,cust_id22,2025-03-01,Credit card,Delivered
+ORD_ID175,cust_id09,2025-03-02,Credit card,Shipped
+ORD_ID176,cust_id47,2025-03-02,Credit card,Delivered
+ORD_ID177,cust_id34,2025-03-02,Debit Card,Confirmed
+ORD_ID178,cust_id04,2025-03-02,UPI,Returned
+ORD_ID179,cust_id47,2025-03-02,Debit Card,Confirmed
+ORD_ID180,cust_id13,2025-03-03,Credit card,Pending
+ORD_ID181,cust_id40,2025-03-04,UPI,Delivered
+ORD_ID182,cust_id33,2025-03-04,Cash,Shipped
+ORD_ID183,cust_id47,2025-03-05,Debit Card,Delivered
+ORD_ID184,cust_id27,2025-03-05,Credit card,Shipped
+ORD_ID185,cust_id48,2025-03-05,Debit Card,Delivered
+ORD_ID186,cust_id27,2025-03-05,UPI,Shipped
+ORD_ID187,cust_id21,2025-03-06,Debit Card,Delivered
+ORD_ID188,cust_id06,2025-03-06,Credit card,Cancelled
+ORD_ID189,cust_id29,2025-03-06,UPI,Delivered
+ORD_ID190,cust_id10,2025-03-06,Credit card,Delivered
+ORD_ID191,cust_id34,2025-03-06,UPI,Delivered
+ORD_ID192,cust_id22,2025-03-07,Cash,Shipped
+ORD_ID193,cust_id47,2025-03-07,Cash,Shipped
+ORD_ID194,cust_id17,2025-03-08,Debit Card,Delivered
+ORD_ID195,cust_id16,2025-03-08,Cash,Pending
+ORD_ID196,cust_id13,2025-03-08,Cash,Cancelled
+ORD_ID197,cust_id18,2025-03-08,UPI,Shipped
+ORD_ID198,cust_id46,2025-03-09,UPI,Shipped
+ORD_ID199,cust_id02,2025-03-09,Cash,Pending
+ORD_ID200,cust_id17,2025-03-10,Cash,Shipped
+ORD_ID201,cust_id15,2025-03-10,Debit Card,Confirmed
+ORD_ID202,cust_id23,2025-03-11,UPI,Shipped
+ORD_ID203,cust_id06,2025-03-11,UPI,Returned
+ORD_ID204,cust_id25,2025-03-11,Debit Card,Shipped
+ORD_ID205,cust_id42,2025-03-15,Cash,Delivered
+ORD_ID206,cust_id35,2025-03-16,Credit card,Cancelled
+ORD_ID207,cust_id04,2025-03-16,Credit card,Delivered
+ORD_ID208,cust_id13,2025-03-16,Cash,Confirmed
+ORD_ID209,cust_id38,2025-03-16,Cash,Delivered
+ORD_ID210,cust_id07,2025-03-16,Credit card,Delivered
+ORD_ID211,cust_id33,2025-03-16,Debit Card,Delivered
+ORD_ID212,cust_id08,2025-03-17,Debit Card,Delivered
+ORD_ID213,cust_id17,2025-03-18,Cash,Returned
+ORD_ID214,cust_id41,2025-03-18,Debit Card,Delivered
+ORD_ID215,cust_id03,2025-03-19,UPI,Cancelled
+ORD_ID216,cust_id47,2025-03-19,UPI,Delivered
+ORD_ID217,cust_id45,2025-03-19,Debit Card,Delivered
+ORD_ID218,cust_id01,2025-03-19,Credit card,Delivered
+ORD_ID219,cust_id33,2025-03-19,Cash,Cancelled
+ORD_ID220,cust_id47,2025-03-20,Debit Card,Cancelled
+ORD_ID221,cust_id24,2025-03-20,UPI,Delivered
+ORD_ID222,cust_id41,2025-03-20,Debit Card,Shipped
+ORD_ID223,cust_id10,2025-03-21,UPI,Delivered
+ORD_ID224,cust_id17,2025-03-21,UPI,Delivered
+ORD_ID225,cust_id01,2025-03-22,Credit card,Delivered
+ORD_ID226,cust_id21,2025-03-23,UPI,Delivered
+ORD_ID227,cust_id32,2025-03-23,Debit Card,Shipped
+ORD_ID228,cust_id21,2025-03-23,Debit Card,Delivered
+ORD_ID229,cust_id20,2025-03-23,Cash,Delivered
+ORD_ID230,cust_id32,2025-03-24,Debit Card,Returned
+ORD_ID231,cust_id14,2025-03-24,Credit card,Shipped
+ORD_ID232,cust_id13,2025-03-25,Debit Card,Cancelled
+ORD_ID233,cust_id41,2025-03-26,UPI,Delivered
+ORD_ID234,cust_id23,2025-03-26,Credit card,Pending
+ORD_ID235,cust_id39,2025-03-28,UPI,Delivered
+ORD_ID236,cust_id30,2025-03-28,Credit card,Shipped
+ORD_ID237,cust_id16,2025-03-28,UPI,Delivered
+ORD_ID238,cust_id14,2025-03-29,Cash,Shipped
+ORD_ID239,cust_id17,2025-03-29,Credit card,Delivered
+ORD_ID240,cust_id47,2025-03-29,Credit card,Shipped
+ORD_ID241,cust_id33,2025-03-30,Credit card,Delivered
+ORD_ID242,cust_id10,2025-03-31,UPI,Delivered
+ORD_ID243,cust_id15,2025-03-31,Cash,Delivered
+ORD_ID244,cust_id06,2025-03-31,UPI,Delivered
+ORD_ID245,cust_id43,2025-04-01,Cash,Delivered
+ORD_ID246,cust_id36,2025-04-02,Debit Card,Delivered
+ORD_ID247,cust_id16,2025-04-02,Cash,Pending
+ORD_ID248,cust_id26,2025-04-03,Cash,Confirmed
+ORD_ID249,cust_id38,2025-04-03,UPI,Delivered
+ORD_ID250,cust_id01,2025-04-03,Debit Card,Cancelled
+ORD_ID251,cust_id15,2025-04-05,Credit card,Shipped
+ORD_ID252,cust_id01,2025-04-06,Cash,Pending
+ORD_ID253,cust_id45,2025-04-07,Credit card,Shipped
+ORD_ID254,cust_id08,2025-04-07,Debit Card,Delivered
+ORD_ID255,cust_id11,2025-04-08,Credit card,Pending
+ORD_ID256,cust_id46,2025-04-08,Cash,Shipped
+ORD_ID257,cust_id21,2025-04-08,Cash,Delivered
+ORD_ID258,cust_id12,2025-04-10,Debit Card,Delivered
+ORD_ID259,cust_id21,2025-04-10,UPI,Pending
+ORD_ID260,cust_id07,2025-04-10,Credit card,Delivered
+ORD_ID261,cust_id34,2025-04-10,Debit Card,Shipped
+ORD_ID262,cust_id43,2025-04-11,Credit card,Delivered
+ORD_ID263,cust_id37,2025-04-11,UPI,Delivered
+ORD_ID264,cust_id05,2025-04-12,Cash,Delivered
+ORD_ID265,cust_id11,2025-04-13,Cash,Delivered
+ORD_ID266,cust_id21,2025-04-13,Credit card,Delivered
+ORD_ID267,cust_id23,2025-04-13,Cash,Pending
+ORD_ID268,cust_id50,2025-04-13,Debit Card,Delivered
+ORD_ID269,cust_id11,2025-04-14,Debit Card,Cancelled
+ORD_ID270,cust_id32,2025-04-14,Cash,Pending
+ORD_ID271,cust_id04,2025-04-15,Debit Card,Pending
+ORD_ID272,cust_id14,2025-04-15,Cash,Delivered
+ORD_ID273,cust_id46,2025-04-16,Cash,Delivered
+ORD_ID274,cust_id35,2025-04-16,Cash,Delivered
+ORD_ID275,cust_id23,2025-04-16,Cash,Delivered
+ORD_ID276,cust_id49,2025-04-16,UPI,Delivered
+ORD_ID277,cust_id05,2025-04-16,Debit Card,Shipped
+ORD_ID278,cust_id42,2025-04-16,Debit Card,Delivered
+ORD_ID279,cust_id38,2025-04-16,UPI,Delivered
+ORD_ID280,cust_id30,2025-04-17,Debit Card,Shipped
+ORD_ID281,cust_id47,2025-04-17,Credit card,Shipped
+ORD_ID282,cust_id33,2025-04-17,Cash,Cancelled
+ORD_ID283,cust_id26,2025-04-18,Cash,Shipped
+ORD_ID284,cust_id39,2025-04-18,UPI,Shipped
+ORD_ID285,cust_id17,2025-04-19,UPI,Delivered
+ORD_ID286,cust_id02,2025-04-19,Credit card,Delivered
+ORD_ID287,cust_id48,2025-04-20,Cash,Cancelled
+ORD_ID288,cust_id47,2025-04-20,Credit card,Cancelled
+ORD_ID289,cust_id07,2025-04-20,Credit card,Delivered
+ORD_ID290,cust_id40,2025-04-22,Cash,Shipped
+ORD_ID291,cust_id25,2025-04-22,UPI,Delivered
+ORD_ID292,cust_id30,2025-04-22,Credit card,Delivered
+ORD_ID293,cust_id21,2025-04-22,Debit Card,Delivered
+ORD_ID294,cust_id18,2025-04-22,Credit card,Shipped
+ORD_ID295,cust_id03,2025-04-24,Cash,Shipped
+ORD_ID296,cust_id34,2025-04-24,Debit Card,Delivered
+ORD_ID297,cust_id32,2025-04-24,Cash,Delivered
+ORD_ID298,cust_id29,2025-04-25,Cash,Delivered
+ORD_ID299,cust_id29,2025-04-25,Debit Card,Delivered
+ORD_ID300,cust_id17,2025-04-26,Debit Card,Delivered
+ORD_ID301,cust_id41,2025-04-26,UPI,Pending
+ORD_ID302,cust_id07,2025-04-26,Cash,Delivered
+ORD_ID303,cust_id01,2025-04-26,Credit card,Delivered
+ORD_ID304,cust_id14,2025-04-27,Debit Card,Delivered
+ORD_ID305,cust_id46,2025-04-27,UPI,Delivered
+ORD_ID306,cust_id13,2025-04-27,UPI,Delivered
+ORD_ID307,cust_id23,2025-04-27,UPI,Delivered
+ORD_ID308,cust_id13,2025-04-27,UPI,Delivered
+ORD_ID309,cust_id01,2025-04-28,Cash,Cancelled
+ORD_ID310,cust_id11,2025-04-28,Cash,Cancelled
+ORD_ID311,cust_id07,2025-04-30,UPI,Delivered
+ORD_ID312,cust_id14,2025-04-30,UPI,Cancelled
+ORD_ID313,cust_id44,2025-04-30,Credit card,Delivered
+ORD_ID314,cust_id28,2025-04-30,Debit Card,Delivered
+ORD_ID315,cust_id27,2025-05-01,Credit card,Delivered
+ORD_ID316,cust_id44,2025-05-01,Cash,Delivered
+ORD_ID317,cust_id10,2025-05-01,Credit card,Delivered
+ORD_ID318,cust_id01,2025-05-01,UPI,Delivered
+ORD_ID319,cust_id46,2025-05-01,Debit Card,Cancelled
+ORD_ID320,cust_id41,2025-05-01,Cash,Delivered
+ORD_ID321,cust_id29,2025-05-02,UPI,Delivered
+ORD_ID322,cust_id11,2025-05-02,Debit Card,Delivered
+ORD_ID323,cust_id20,2025-05-02,Debit Card,Delivered
+ORD_ID324,cust_id20,2025-05-03,Credit card,Cancelled
+ORD_ID325,cust_id23,2025-05-03,Debit Card,Returned
+ORD_ID326,cust_id24,2025-05-04,Cash,Cancelled
+ORD_ID327,cust_id49,2025-05-04,Cash,Shipped
+ORD_ID328,cust_id30,2025-05-04,Cash,Cancelled
+ORD_ID329,cust_id03,2025-05-05,Credit card,Delivered
+ORD_ID330,cust_id17,2025-05-05,Debit Card,Delivered
+ORD_ID331,cust_id01,2025-05-05,Cash,Shipped
+ORD_ID332,cust_id15,2025-05-05,Debit Card,Delivered
+ORD_ID333,cust_id17,2025-05-06,Credit card,Delivered
+ORD_ID334,cust_id15,2025-05-06,Cash,Shipped
+ORD_ID335,cust_id16,2025-05-06,Cash,Cancelled
+ORD_ID336,cust_id44,2025-05-06,Credit card,Returned
+ORD_ID337,cust_id50,2025-05-06,Cash,Delivered
+ORD_ID338,cust_id26,2025-05-07,Cash,Delivered
+ORD_ID339,cust_id38,2025-05-07,Debit Card,Delivered
+ORD_ID340,cust_id21,2025-05-08,Cash,Delivered
+ORD_ID341,cust_id02,2025-05-08,Debit Card,Delivered
+ORD_ID342,cust_id44,2025-05-08,Cash,Delivered
+ORD_ID343,cust_id01,2025-05-08,Cash,Delivered
+ORD_ID344,cust_id43,2025-05-09,Credit card,Shipped
+ORD_ID345,cust_id17,2025-05-10,Cash,Returned
+ORD_ID346,cust_id12,2025-05-10,Credit card,Shipped
+ORD_ID347,cust_id05,2025-05-10,Cash,Delivered
+ORD_ID348,cust_id18,2025-05-11,Credit card,Cancelled
+ORD_ID349,cust_id16,2025-05-11,Cash,Delivered
+ORD_ID350,cust_id26,2025-05-11,Cash,Pending
+ORD_ID351,cust_id06,2025-05-11,UPI,Pending
+ORD_ID352,cust_id12,2025-05-11,UPI,Shipped
+ORD_ID353,cust_id14,2025-05-12,Debit Card,Confirmed
+ORD_ID354,cust_id06,2025-05-12,Debit Card,Delivered
+ORD_ID355,cust_id44,2025-05-13,Credit card,Delivered
+ORD_ID356,cust_id40,2025-05-13,Debit Card,Confirmed
+ORD_ID357,cust_id03,2025-05-13,UPI,Confirmed
+ORD_ID358,cust_id47,2025-05-14,Cash,Shipped
+ORD_ID359,cust_id05,2025-05-15,Cash,Shipped
+ORD_ID360,cust_id30,2025-05-15,Cash,Delivered
+ORD_ID361,cust_id22,2025-05-16,Credit card,Cancelled
+ORD_ID362,cust_id21,2025-05-18,Cash,Delivered
+ORD_ID363,cust_id18,2025-05-19,Debit Card,Delivered
+ORD_ID364,cust_id02,2025-05-19,UPI,Delivered
+ORD_ID365,cust_id16,2025-05-19,Credit card,Shipped
+ORD_ID366,cust_id19,2025-05-20,Credit card,Delivered
+ORD_ID367,cust_id24,2025-05-21,Credit card,Delivered
+ORD_ID368,cust_id25,2025-05-22,Cash,Shipped
+ORD_ID369,cust_id06,2025-05-22,UPI,Confirmed
+ORD_ID370,cust_id45,2025-05-22,Credit card,Shipped
+ORD_ID371,cust_id23,2025-05-23,Debit Card,Delivered
+ORD_ID372,cust_id08,2025-05-23,Credit card,Delivered
+ORD_ID373,cust_id03,2025-05-24,UPI,Confirmed
+ORD_ID374,cust_id05,2025-05-24,Cash,Confirmed
+ORD_ID375,cust_id18,2025-05-24,Cash,Delivered
+ORD_ID376,cust_id09,2025-05-25,Debit Card,Pending
+ORD_ID377,cust_id26,2025-05-25,Debit Card,Shipped
+ORD_ID378,cust_id50,2025-05-25,Cash,Delivered
+ORD_ID379,cust_id36,2025-05-26,UPI,Delivered
+ORD_ID380,cust_id16,2025-05-26,Credit card,Delivered
+ORD_ID381,cust_id23,2025-05-26,Debit Card,Cancelled
+ORD_ID382,cust_id32,2025-05-27,Credit card,Shipped
+ORD_ID383,cust_id35,2025-05-28,Credit card,Shipped
+ORD_ID384,cust_id08,2025-05-29,UPI,Shipped
+ORD_ID385,cust_id25,2025-05-30,Debit Card,Delivered
+ORD_ID386,cust_id49,2025-05-30,Cash,Cancelled
+ORD_ID387,cust_id35,2025-05-31,UPI,Confirmed
+ORD_ID388,cust_id05,2025-05-31,Debit Card,Delivered
+ORD_ID389,cust_id50,2025-05-31,Credit card,Delivered
+ORD_ID390,cust_id38,2025-06-01,Cash,Pending
+ORD_ID391,cust_id25,2025-06-01,UPI,Shipped
+ORD_ID392,cust_id23,2025-06-02,Debit Card,Confirmed
+ORD_ID393,cust_id12,2025-06-03,UPI,Delivered
+ORD_ID394,cust_id09,2025-06-03,Credit card,Delivered
+ORD_ID395,cust_id36,2025-06-04,Cash,Confirmed
+ORD_ID396,cust_id42,2025-06-05,Cash,Delivered
+ORD_ID397,cust_id32,2025-06-05,Debit Card,Shipped
+ORD_ID398,cust_id32,2025-06-06,UPI,Confirmed
+ORD_ID399,cust_id47,2025-06-06,Debit Card,Returned
+ORD_ID400,cust_id37,2025-06-06,Cash,Delivered
+ORD_ID401,cust_id41,2025-06-06,UPI,Delivered
+ORD_ID402,cust_id28,2025-06-06,Debit Card,Delivered
+ORD_ID403,cust_id35,2025-06-06,UPI,Shipped
+ORD_ID404,cust_id16,2025-06-07,Cash,Delivered
+ORD_ID405,cust_id21,2025-06-07,UPI,Confirmed
+ORD_ID406,cust_id34,2025-06-07,Debit Card,Delivered
+ORD_ID407,cust_id09,2025-06-08,Debit Card,Shipped
+ORD_ID408,cust_id15,2025-06-08,UPI,Delivered
+ORD_ID409,cust_id32,2025-06-09,UPI,Delivered
+ORD_ID410,cust_id06,2025-06-09,Cash,Confirmed
+ORD_ID411,cust_id26,2025-06-09,UPI,Shipped
+ORD_ID412,cust_id31,2025-06-10,Credit card,Delivered
+ORD_ID413,cust_id43,2025-06-10,UPI,Cancelled
+ORD_ID414,cust_id35,2025-06-10,UPI,Delivered
+ORD_ID415,cust_id50,2025-06-10,Debit Card,Delivered
+ORD_ID416,cust_id19,2025-06-10,Credit card,Delivered
+ORD_ID417,cust_id23,2025-06-11,Cash,Delivered
+ORD_ID418,cust_id49,2025-06-11,Credit card,Delivered
+ORD_ID419,cust_id24,2025-06-11,Cash,Delivered
+ORD_ID420,cust_id37,2025-06-12,Credit card,Delivered
+ORD_ID421,cust_id31,2025-06-12,Credit card,Delivered
+ORD_ID422,cust_id06,2025-06-12,Debit Card,Shipped
+ORD_ID423,cust_id15,2025-06-12,UPI,Delivered
+ORD_ID424,cust_id49,2025-06-12,Debit Card,Confirmed
+ORD_ID425,cust_id13,2025-06-13,Credit card,Delivered
+ORD_ID426,cust_id17,2025-06-14,UPI,Delivered
+ORD_ID427,cust_id46,2025-06-14,Credit card,Delivered
+ORD_ID428,cust_id50,2025-06-14,Debit Card,Delivered
+ORD_ID429,cust_id41,2025-06-14,UPI,Delivered
+ORD_ID430,cust_id34,2025-06-15,Credit card,Delivered
+ORD_ID431,cust_id21,2025-06-15,UPI,Cancelled
+ORD_ID432,cust_id05,2025-06-15,Debit Card,Cancelled
+ORD_ID433,cust_id01,2025-06-16,UPI,Delivered
+ORD_ID434,cust_id50,2025-06-16,Credit card,Delivered
+ORD_ID435,cust_id28,2025-06-17,UPI,Cancelled
+ORD_ID436,cust_id28,2025-06-18,UPI,Confirmed
+ORD_ID437,cust_id18,2025-06-18,UPI,Confirmed
+ORD_ID438,cust_id38,2025-06-19,Credit card,Delivered
+ORD_ID439,cust_id07,2025-06-19,Debit Card,Delivered
+ORD_ID440,cust_id26,2025-06-19,Debit Card,Delivered
+ORD_ID441,cust_id48,2025-06-19,Credit card,Shipped
+ORD_ID442,cust_id41,2025-06-20,Credit card,Delivered
+ORD_ID443,cust_id31,2025-06-20,Debit Card,Delivered
+ORD_ID444,cust_id10,2025-06-20,Credit card,Delivered
+ORD_ID445,cust_id31,2025-06-21,Cash,Delivered
+ORD_ID446,cust_id06,2025-06-21,Credit card,Delivered
+ORD_ID447,cust_id46,2025-06-21,Credit card,Confirmed
+ORD_ID448,cust_id36,2025-06-21,UPI,Confirmed
+ORD_ID449,cust_id25,2025-06-21,UPI,Delivered
+ORD_ID450,cust_id29,2025-06-21,Cash,Delivered
+ORD_ID451,cust_id15,2025-06-22,UPI,Delivered
+ORD_ID452,cust_id11,2025-06-22,Debit Card,Confirmed
+ORD_ID453,cust_id12,2025-06-23,UPI,Delivered
+ORD_ID454,cust_id50,2025-06-23,Debit Card,Delivered
+ORD_ID455,cust_id06,2025-06-23,Credit card,Delivered
+ORD_ID456,cust_id29,2025-06-24,Debit Card,Delivered
+ORD_ID457,cust_id13,2025-06-24,UPI,Delivered
+ORD_ID458,cust_id13,2025-06-24,Cash,Delivered
+ORD_ID459,cust_id28,2025-06-24,Debit Card,Delivered
+ORD_ID460,cust_id19,2025-06-24,Credit card,Delivered
+ORD_ID461,cust_id45,2025-06-24,UPI,Delivered
+ORD_ID462,cust_id15,2025-06-25,UPI,Cancelled
+ORD_ID463,cust_id27,2025-06-27,Credit card,Delivered
+ORD_ID464,cust_id24,2025-06-27,Credit card,Returned
+ORD_ID465,cust_id35,2025-06-27,Debit Card,Delivered
+ORD_ID466,cust_id14,2025-06-27,Debit Card,Delivered
+ORD_ID467,cust_id46,2025-06-27,UPI,Delivered
+ORD_ID468,cust_id18,2025-06-29,Debit Card,Confirmed
+ORD_ID469,cust_id03,2025-06-30,Cash,Shipped
+ORD_ID470,cust_id25,2025-06-30,Cash,Delivered
+ORD_ID471,cust_id14,2025-06-30,UPI,Delivered
+ORD_ID472,cust_id44,2025-07-01,Credit card,Delivered
+ORD_ID473,cust_id27,2025-07-01,Cash,Delivered
+ORD_ID474,cust_id42,2025-07-01,Credit card,Returned
+ORD_ID475,cust_id09,2025-07-01,Credit card,Delivered
+ORD_ID476,cust_id47,2025-07-01,UPI,Delivered
+ORD_ID477,cust_id39,2025-07-02,Cash,Cancelled
+ORD_ID478,cust_id16,2025-07-02,UPI,Delivered
+ORD_ID479,cust_id18,2025-07-02,Debit Card,Cancelled
+ORD_ID480,cust_id17,2025-07-03,Debit Card,Delivered
+ORD_ID481,cust_id34,2025-07-05,UPI,Delivered
+ORD_ID482,cust_id14,2025-07-05,Cash,Delivered
+ORD_ID483,cust_id03,2025-07-05,UPI,Delivered
+ORD_ID484,cust_id48,2025-07-05,Cash,Pending
+ORD_ID485,cust_id46,2025-07-05,Credit card,Shipped
+ORD_ID486,cust_id24,2025-07-05,Credit card,Delivered
+ORD_ID487,cust_id20,2025-07-06,Debit Card,Delivered
+ORD_ID488,cust_id19,2025-07-06,UPI,Returned
+ORD_ID489,cust_id30,2025-07-06,Credit card,Delivered
+ORD_ID490,cust_id48,2025-07-06,UPI,Cancelled
+ORD_ID491,cust_id16,2025-07-06,Cash,Delivered
+ORD_ID492,cust_id17,2025-07-07,UPI,Delivered
+ORD_ID493,cust_id30,2025-07-07,Credit card,Delivered
+ORD_ID494,cust_id48,2025-07-07,Credit card,Delivered
+ORD_ID495,cust_id15,2025-07-07,UPI,Cancelled
+ORD_ID496,cust_id04,2025-07-07,Credit card,Cancelled
+ORD_ID497,cust_id23,2025-07-08,Cash,Delivered
+ORD_ID498,cust_id07,2025-07-08,Cash,Delivered
+ORD_ID499,cust_id22,2025-07-08,UPI,Delivered
+ORD_ID500,cust_id12,2025-07-08,UPI,Delivered
+ORD_ID501,cust_id13,2025-07-10,Credit card,Delivered
+ORD_ID502,cust_id45,2025-07-11,UPI,Confirmed
+ORD_ID503,cust_id38,2025-07-11,Credit card,Confirmed
+ORD_ID504,cust_id31,2025-07-12,UPI,Shipped
+ORD_ID505,cust_id26,2025-07-12,Debit Card,Delivered
+ORD_ID506,cust_id10,2025-07-13,Debit Card,Cancelled
+ORD_ID507,cust_id32,2025-07-13,Credit card,Delivered
+ORD_ID508,cust_id26,2025-07-14,Credit card,Delivered
+ORD_ID509,cust_id06,2025-07-14,Debit Card,Delivered
+ORD_ID510,cust_id04,2025-07-15,UPI,Delivered
+ORD_ID511,cust_id12,2025-07-17,Debit Card,Confirmed
+ORD_ID512,cust_id23,2025-07-17,Credit card,Confirmed
+ORD_ID513,cust_id37,2025-07-17,Credit card,Shipped
+ORD_ID514,cust_id48,2025-07-17,Credit card,Shipped
+ORD_ID515,cust_id46,2025-07-18,Debit Card,Shipped
+ORD_ID516,cust_id41,2025-07-18,Cash,Delivered
+ORD_ID517,cust_id35,2025-07-19,UPI,Delivered
+ORD_ID518,cust_id49,2025-07-19,UPI,Delivered
+ORD_ID519,cust_id37,2025-07-20,Cash,Shipped
+ORD_ID520,cust_id44,2025-07-20,Cash,Delivered
+ORD_ID521,cust_id28,2025-07-22,Debit Card,Delivered
+ORD_ID522,cust_id36,2025-07-22,UPI,Cancelled
+ORD_ID523,cust_id30,2025-07-23,Credit card,Delivered
+ORD_ID524,cust_id48,2025-07-23,UPI,Delivered
+ORD_ID525,cust_id04,2025-07-23,UPI,Cancelled
+ORD_ID526,cust_id27,2025-07-23,Debit Card,Delivered
+ORD_ID527,cust_id23,2025-07-24,Credit card,Delivered
+ORD_ID528,cust_id37,2025-07-25,Cash,Delivered
+ORD_ID529,cust_id07,2025-07-25,Cash,Cancelled
+ORD_ID530,cust_id05,2025-07-25,Debit Card,Shipped
+ORD_ID531,cust_id21,2025-07-25,Cash,Delivered
+ORD_ID532,cust_id01,2025-07-26,Cash,Delivered
+ORD_ID533,cust_id15,2025-07-27,Cash,Delivered
+ORD_ID534,cust_id02,2025-07-27,Cash,Shipped
+ORD_ID535,cust_id40,2025-07-27,Cash,Delivered
+ORD_ID536,cust_id40,2025-07-27,UPI,Confirmed
+ORD_ID537,cust_id02,2025-07-28,Cash,Delivered
+ORD_ID538,cust_id31,2025-07-28,UPI,Delivered
+ORD_ID539,cust_id25,2025-07-28,UPI,Delivered
+ORD_ID540,cust_id33,2025-07-30,UPI,Delivered
+ORD_ID541,cust_id28,2025-07-30,Cash,Shipped
+ORD_ID542,cust_id06,2025-07-30,Credit card,Delivered
+ORD_ID543,cust_id02,2025-07-30,Credit card,Delivered
+ORD_ID544,cust_id27,2025-07-31,Credit card,Pending
+ORD_ID545,cust_id40,2025-07-31,Credit card,Confirmed
+ORD_ID546,cust_id15,2025-08-01,Cash,Delivered
+ORD_ID547,cust_id04,2025-08-01,Credit card,Delivered
+ORD_ID548,cust_id01,2025-08-01,UPI,Delivered
+ORD_ID549,cust_id25,2025-08-01,UPI,Delivered
+ORD_ID550,cust_id33,2025-08-02,UPI,Delivered
+ORD_ID551,cust_id37,2025-08-03,UPI,Delivered
+ORD_ID552,cust_id30,2025-08-03,Debit Card,Delivered
+ORD_ID553,cust_id24,2025-08-03,UPI,Delivered
+ORD_ID554,cust_id41,2025-08-03,Cash,Delivered
+ORD_ID555,cust_id24,2025-08-04,UPI,Delivered
+ORD_ID556,cust_id17,2025-08-04,Credit card,Delivered
+ORD_ID557,cust_id37,2025-08-04,Credit card,Delivered
+ORD_ID558,cust_id42,2025-08-05,Cash,Pending
+ORD_ID559,cust_id01,2025-08-06,Debit Card,Delivered
+ORD_ID560,cust_id35,2025-08-06,Debit Card,Delivered
+ORD_ID561,cust_id10,2025-08-06,Debit Card,Pending
+ORD_ID562,cust_id20,2025-08-06,Cash,Delivered
+ORD_ID563,cust_id08,2025-08-07,UPI,Delivered
+ORD_ID564,cust_id12,2025-08-07,Debit Card,Confirmed
+ORD_ID565,cust_id44,2025-08-07,Cash,Shipped
+ORD_ID566,cust_id37,2025-08-07,Cash,Delivered
+ORD_ID567,cust_id46,2025-08-08,Debit Card,Delivered
+ORD_ID568,cust_id42,2025-08-08,Cash,Delivered
+ORD_ID569,cust_id49,2025-08-08,Cash,Delivered
+ORD_ID570,cust_id27,2025-08-08,Cash,Shipped
+ORD_ID571,cust_id05,2025-08-08,UPI,Delivered
+ORD_ID572,cust_id25,2025-08-09,UPI,Confirmed
+ORD_ID573,cust_id25,2025-08-10,Credit card,Delivered
+ORD_ID574,cust_id10,2025-08-10,UPI,Delivered
+ORD_ID575,cust_id30,2025-08-11,UPI,Delivered
+ORD_ID576,cust_id32,2025-08-11,Credit card,Shipped
+ORD_ID577,cust_id03,2025-08-11,Cash,Delivered
+ORD_ID578,cust_id44,2025-08-11,Debit Card,Delivered
+ORD_ID579,cust_id01,2025-08-12,Cash,Shipped
+ORD_ID580,cust_id18,2025-08-12,Credit card,Delivered
+ORD_ID581,cust_id31,2025-08-12,Credit card,Delivered
+ORD_ID582,cust_id30,2025-08-12,Cash,Delivered
+ORD_ID583,cust_id50,2025-08-13,Credit card,Delivered
+ORD_ID584,cust_id38,2025-08-14,UPI,Delivered
+ORD_ID585,cust_id18,2025-08-14,Debit Card,Shipped
+ORD_ID586,cust_id46,2025-08-14,Credit card,Delivered
+ORD_ID587,cust_id15,2025-08-14,UPI,Delivered
+ORD_ID588,cust_id41,2025-08-15,UPI,Shipped
+ORD_ID589,cust_id14,2025-08-15,UPI,Delivered
+ORD_ID590,cust_id03,2025-08-16,Credit card,Delivered
+ORD_ID591,cust_id22,2025-08-16,Credit card,Confirmed
+ORD_ID592,cust_id39,2025-08-16,UPI,Cancelled
+ORD_ID593,cust_id04,2025-08-16,Cash,Delivered
+ORD_ID594,cust_id06,2025-08-17,Cash,Delivered
+ORD_ID595,cust_id41,2025-08-18,UPI,Cancelled
+ORD_ID596,cust_id38,2025-08-20,Cash,Shipped
+ORD_ID597,cust_id25,2025-08-21,Debit Card,Delivered
+ORD_ID598,cust_id23,2025-08-21,Debit Card,Delivered
+ORD_ID599,cust_id12,2025-08-21,UPI,Confirmed
+ORD_ID600,cust_id19,2025-08-22,Debit Card,Delivered
+ORD_ID601,cust_id08,2025-08-22,UPI,Confirmed
+ORD_ID602,cust_id29,2025-08-22,Debit Card,Shipped
+ORD_ID603,cust_id13,2025-08-22,Credit card,Confirmed
+ORD_ID604,cust_id30,2025-08-22,Cash,Delivered
+ORD_ID605,cust_id12,2025-08-23,Cash,Shipped
+ORD_ID606,cust_id29,2025-08-23,Cash,Shipped
+ORD_ID607,cust_id35,2025-08-23,Cash,Shipped
+ORD_ID608,cust_id23,2025-08-23,UPI,Delivered
+ORD_ID609,cust_id16,2025-08-23,Credit card,Delivered
+ORD_ID610,cust_id05,2025-08-23,Debit Card,Delivered
+ORD_ID611,cust_id02,2025-08-24,Debit Card,Shipped
+ORD_ID612,cust_id24,2025-08-24,Cash,Cancelled
+ORD_ID613,cust_id11,2025-08-24,UPI,Cancelled
+ORD_ID614,cust_id11,2025-08-24,Credit card,Confirmed
+ORD_ID615,cust_id09,2025-08-25,Debit Card,Delivered
+ORD_ID616,cust_id43,2025-08-25,Debit Card,Delivered
+ORD_ID617,cust_id05,2025-08-26,UPI,Returned
+ORD_ID618,cust_id16,2025-08-26,Debit Card,Delivered
+ORD_ID619,cust_id22,2025-08-27,Cash,Delivered
+ORD_ID620,cust_id09,2025-08-28,Credit card,Delivered
+ORD_ID621,cust_id37,2025-08-28,UPI,Returned
+ORD_ID622,cust_id01,2025-08-29,Cash,Delivered
+ORD_ID623,cust_id08,2025-08-29,UPI,Delivered
+ORD_ID624,cust_id01,2025-08-30,UPI,Shipped
+ORD_ID625,cust_id12,2025-08-30,UPI,Delivered
+ORD_ID626,cust_id42,2025-08-30,UPI,Returned
+ORD_ID627,cust_id49,2025-08-30,UPI,Delivered
+ORD_ID628,cust_id40,2025-08-30,Cash,Delivered
+ORD_ID629,cust_id04,2025-08-31,UPI,Cancelled
+ORD_ID630,cust_id40,2025-08-31,Credit card,Shipped
+ORD_ID631,cust_id39,2025-08-31,UPI,Delivered
+ORD_ID632,cust_id03,2025-08-31,Credit card,Delivered
+ORD_ID633,cust_id18,2025-08-31,Credit card,Delivered
+ORD_ID634,cust_id28,2025-08-31,Cash,Delivered
+ORD_ID635,cust_id39,2025-08-31,Cash,Delivered
+ORD_ID636,cust_id46,2025-09-01,UPI,Delivered
+ORD_ID637,cust_id41,2025-09-02,UPI,Delivered
+ORD_ID638,cust_id33,2025-09-02,UPI,Confirmed
+ORD_ID639,cust_id40,2025-09-03,Cash,Delivered
+ORD_ID640,cust_id12,2025-09-03,Credit card,Shipped
+ORD_ID641,cust_id08,2025-09-03,UPI,Delivered
+ORD_ID642,cust_id27,2025-09-04,Credit card,Confirmed
+ORD_ID643,cust_id02,2025-09-04,Credit card,Delivered
+ORD_ID644,cust_id22,2025-09-04,UPI,Pending
+ORD_ID645,cust_id30,2025-09-04,Debit Card,Shipped
+ORD_ID646,cust_id37,2025-09-05,Credit card,Pending
+ORD_ID647,cust_id10,2025-09-05,UPI,Delivered
+ORD_ID648,cust_id07,2025-09-05,UPI,Shipped
+ORD_ID649,cust_id28,2025-09-05,Credit card,Shipped
+ORD_ID650,cust_id36,2025-09-06,Cash,Delivered
+ORD_ID651,cust_id46,2025-09-06,UPI,Confirmed
+ORD_ID652,cust_id40,2025-09-06,UPI,Shipped
+ORD_ID653,cust_id26,2025-09-06,Cash,Delivered
+ORD_ID654,cust_id40,2025-09-07,Debit Card,Shipped
+ORD_ID655,cust_id08,2025-09-07,Cash,Cancelled
+ORD_ID656,cust_id37,2025-09-07,Credit card,Delivered
+ORD_ID657,cust_id31,2025-09-07,Credit card,Delivered
+ORD_ID658,cust_id31,2025-09-07,Debit Card,Delivered
+ORD_ID659,cust_id04,2025-09-07,Cash,Delivered
+ORD_ID660,cust_id33,2025-09-07,UPI,Confirmed
+ORD_ID661,cust_id02,2025-09-08,Debit Card,Delivered
+ORD_ID662,cust_id01,2025-09-08,UPI,Confirmed
+ORD_ID663,cust_id46,2025-09-09,Cash,Confirmed
+ORD_ID664,cust_id23,2025-09-09,UPI,Cancelled
+ORD_ID665,cust_id09,2025-09-09,Cash,Delivered
+ORD_ID666,cust_id29,2025-09-09,Cash,Shipped
+ORD_ID667,cust_id42,2025-09-09,UPI,Delivered
+ORD_ID668,cust_id35,2025-09-09,Debit Card,Delivered
+ORD_ID669,cust_id49,2025-09-10,Debit Card,Delivered
+ORD_ID670,cust_id38,2025-09-10,Cash,Confirmed
+ORD_ID671,cust_id30,2025-09-10,Credit card,Confirmed
+ORD_ID672,cust_id28,2025-09-11,Cash,Delivered
+ORD_ID673,cust_id41,2025-09-11,Cash,Delivered
+ORD_ID674,cust_id32,2025-09-11,Debit Card,Shipped
+ORD_ID675,cust_id45,2025-09-11,Credit card,Delivered
+ORD_ID676,cust_id14,2025-09-11,Cash,Cancelled
+ORD_ID677,cust_id41,2025-09-11,UPI,Shipped
+ORD_ID678,cust_id18,2025-09-12,Debit Card,Delivered
+ORD_ID679,cust_id06,2025-09-12,Credit card,Delivered
+ORD_ID680,cust_id25,2025-09-13,Debit Card,Confirmed
+ORD_ID681,cust_id25,2025-09-13,Cash,Delivered
+ORD_ID682,cust_id32,2025-09-13,Cash,Delivered
+ORD_ID683,cust_id03,2025-09-14,Credit card,Shipped
+ORD_ID684,cust_id26,2025-09-14,Cash,Shipped
+ORD_ID685,cust_id27,2025-09-14,Credit card,Delivered
+ORD_ID686,cust_id44,2025-09-14,UPI,Pending
+ORD_ID687,cust_id04,2025-09-14,Credit card,Shipped
+ORD_ID688,cust_id02,2025-09-15,Cash,Shipped
+ORD_ID689,cust_id18,2025-09-15,Cash,Shipped
+ORD_ID690,cust_id08,2025-09-16,Credit card,Delivered
+ORD_ID691,cust_id49,2025-09-16,Debit Card,Cancelled
+ORD_ID692,cust_id17,2025-09-16,Cash,Confirmed
+ORD_ID693,cust_id48,2025-09-16,UPI,Delivered
+ORD_ID694,cust_id02,2025-09-16,Credit card,Delivered
+ORD_ID695,cust_id30,2025-09-17,UPI,Delivered
+ORD_ID696,cust_id22,2025-09-17,UPI,Delivered
+ORD_ID697,cust_id49,2025-09-18,UPI,Delivered
+ORD_ID698,cust_id49,2025-09-18,Credit card,Delivered
+ORD_ID699,cust_id41,2025-09-18,Debit Card,Shipped
+ORD_ID700,cust_id29,2025-09-18,UPI,Pending
+ORD_ID701,cust_id40,2025-09-20,Cash,Delivered
+ORD_ID702,cust_id20,2025-09-20,UPI,Delivered
+ORD_ID703,cust_id20,2025-09-21,UPI,Delivered
+ORD_ID704,cust_id43,2025-09-21,UPI,Delivered
+ORD_ID705,cust_id35,2025-09-21,UPI,Delivered
+ORD_ID706,cust_id37,2025-09-22,UPI,Delivered
+ORD_ID707,cust_id08,2025-09-22,Credit card,Delivered
+ORD_ID708,cust_id37,2025-09-22,Debit Card,Delivered
+ORD_ID709,cust_id13,2025-09-22,Debit Card,Delivered
+ORD_ID710,cust_id33,2025-09-23,Cash,Delivered
+ORD_ID711,cust_id22,2025-09-24,Cash,Delivered
+ORD_ID712,cust_id13,2025-09-24,Credit card,Shipped
+ORD_ID713,cust_id50,2025-09-24,Debit Card,Shipped
+ORD_ID714,cust_id49,2025-09-24,UPI,Shipped
+ORD_ID715,cust_id29,2025-09-24,UPI,Cancelled
+ORD_ID716,cust_id43,2025-09-24,UPI,Delivered
+ORD_ID717,cust_id41,2025-09-25,Credit card,Delivered
+ORD_ID718,cust_id43,2025-09-26,Credit card,Shipped
+ORD_ID719,cust_id05,2025-09-26,Credit card,Delivered
+ORD_ID720,cust_id23,2025-09-26,UPI,Delivered
+ORD_ID721,cust_id01,2025-09-26,Cash,Delivered
+ORD_ID722,cust_id33,2025-09-26,Cash,Delivered
+ORD_ID723,cust_id44,2025-09-26,UPI,Delivered
+ORD_ID724,cust_id19,2025-09-27,Credit card,Delivered
+ORD_ID725,cust_id33,2025-09-28,Debit Card,Cancelled
+ORD_ID726,cust_id34,2025-09-28,Credit card,Confirmed
+ORD_ID727,cust_id35,2025-09-29,Debit Card,Confirmed
+ORD_ID728,cust_id19,2025-09-29,UPI,Delivered
+ORD_ID729,cust_id41,2025-09-30,Cash,Delivered
+ORD_ID730,cust_id10,2025-09-30,Debit Card,Confirmed
+ORD_ID731,cust_id46,2025-09-30,Cash,Shipped
+ORD_ID732,cust_id18,2025-09-30,UPI,Shipped
+ORD_ID733,cust_id13,2025-09-30,Credit card,Delivered
+ORD_ID734,cust_id31,2025-09-30,UPI,Pending
+ORD_ID735,cust_id35,2025-09-30,Credit card,Confirmed
+ORD_ID736,cust_id01,2025-10-01,UPI,Delivered
+ORD_ID737,cust_id32,2025-10-02,Cash,Shipped
+ORD_ID738,cust_id05,2025-10-02,Debit Card,Shipped
+ORD_ID739,cust_id15,2025-10-03,Credit card,Pending
+ORD_ID740,cust_id36,2025-10-03,Credit card,Delivered
+ORD_ID741,cust_id02,2025-10-03,UPI,Cancelled
+ORD_ID742,cust_id39,2025-10-04,UPI,Delivered
+ORD_ID743,cust_id29,2025-10-04,UPI,Delivered
+ORD_ID744,cust_id38,2025-10-04,Cash,Delivered
+ORD_ID745,cust_id24,2025-10-05,Cash,Shipped
+ORD_ID746,cust_id39,2025-10-05,Debit Card,Delivered
+ORD_ID747,cust_id10,2025-10-05,Cash,Delivered
+ORD_ID748,cust_id20,2025-10-06,Cash,Confirmed
+ORD_ID749,cust_id09,2025-10-06,Debit Card,Delivered
+ORD_ID750,cust_id44,2025-10-06,Credit card,Delivered
+ORD_ID751,cust_id17,2025-10-06,Cash,Shipped
+ORD_ID752,cust_id35,2025-10-06,Cash,Delivered
+ORD_ID753,cust_id07,2025-10-06,UPI,Shipped
+ORD_ID754,cust_id39,2025-10-07,UPI,Cancelled
+ORD_ID755,cust_id43,2025-10-07,Debit Card,Shipped
+ORD_ID756,cust_id18,2025-10-07,Cash,Delivered
+ORD_ID757,cust_id11,2025-10-07,Debit Card,Delivered
+ORD_ID758,cust_id35,2025-10-07,Debit Card,Delivered
+ORD_ID759,cust_id29,2025-10-08,Credit card,Cancelled
+ORD_ID760,cust_id33,2025-10-09,Cash,Confirmed
+ORD_ID761,cust_id28,2025-10-09,UPI,Cancelled
+ORD_ID762,cust_id06,2025-10-09,Cash,Pending
+ORD_ID763,cust_id04,2025-10-09,Cash,Delivered
+ORD_ID764,cust_id25,2025-10-09,Debit Card,Shipped
+ORD_ID765,cust_id41,2025-10-09,Debit Card,Pending
+ORD_ID766,cust_id28,2025-10-09,Cash,Delivered
+ORD_ID767,cust_id40,2025-10-09,Debit Card,Cancelled
+ORD_ID768,cust_id12,2025-10-10,Debit Card,Confirmed
+ORD_ID769,cust_id44,2025-10-11,Debit Card,Delivered
+ORD_ID770,cust_id26,2025-10-11,UPI,Delivered
+ORD_ID771,cust_id12,2025-10-11,Cash,Delivered
+ORD_ID772,cust_id08,2025-10-11,Cash,Delivered
+ORD_ID773,cust_id44,2025-10-12,Credit card,Delivered
+ORD_ID774,cust_id23,2025-10-12,Credit card,Delivered
+ORD_ID775,cust_id02,2025-10-12,Credit card,Cancelled
+ORD_ID776,cust_id43,2025-10-12,Credit card,Pending
+ORD_ID777,cust_id39,2025-10-12,Credit card,Delivered
+ORD_ID778,cust_id05,2025-10-13,Debit Card,Delivered
+ORD_ID779,cust_id08,2025-10-13,Debit Card,Shipped
+ORD_ID780,cust_id02,2025-10-13,Cash,Delivered
+ORD_ID781,cust_id16,2025-10-13,UPI,Shipped
+ORD_ID782,cust_id45,2025-10-14,UPI,Delivered
+ORD_ID783,cust_id27,2025-10-14,UPI,Delivered
+ORD_ID784,cust_id09,2025-10-14,Debit Card,Confirmed
+ORD_ID785,cust_id08,2025-10-14,Cash,Pending
+ORD_ID786,cust_id36,2025-10-15,Debit Card,Cancelled
+ORD_ID787,cust_id42,2025-10-15,Credit card,Delivered
+ORD_ID788,cust_id33,2025-10-15,Credit card,Delivered
+ORD_ID789,cust_id03,2025-10-15,UPI,Delivered
+ORD_ID790,cust_id40,2025-10-15,Cash,Delivered
+ORD_ID791,cust_id37,2025-10-15,Debit Card,Cancelled
+ORD_ID792,cust_id31,2025-10-16,Credit card,Delivered
+ORD_ID793,cust_id06,2025-10-16,UPI,Delivered
+ORD_ID794,cust_id18,2025-10-17,Credit card,Delivered
+ORD_ID795,cust_id12,2025-10-17,Debit Card,Shipped
+ORD_ID796,cust_id44,2025-10-18,Cash,Delivered
+ORD_ID797,cust_id47,2025-10-18,Cash,Shipped
+ORD_ID798,cust_id44,2025-10-18,UPI,Delivered
+ORD_ID799,cust_id49,2025-10-18,Debit Card,Delivered
+ORD_ID800,cust_id43,2025-10-19,Credit card,Delivered
+ORD_ID801,cust_id16,2025-10-19,Cash,Returned
+ORD_ID802,cust_id29,2025-10-19,Cash,Confirmed
+ORD_ID803,cust_id12,2025-10-20,Cash,Shipped
+ORD_ID804,cust_id18,2025-10-20,Credit card,Delivered
+ORD_ID805,cust_id37,2025-10-20,UPI,Delivered
+ORD_ID806,cust_id33,2025-10-20,Cash,Delivered
+ORD_ID807,cust_id29,2025-10-20,UPI,Delivered
+ORD_ID808,cust_id15,2025-10-21,UPI,Pending
+ORD_ID809,cust_id40,2025-10-21,Debit Card,Delivered
+ORD_ID810,cust_id35,2025-10-21,Credit card,Delivered
+ORD_ID811,cust_id01,2025-10-21,Credit card,Cancelled
+ORD_ID812,cust_id50,2025-10-22,UPI,Delivered
+ORD_ID813,cust_id43,2025-10-22,Credit card,Delivered
+ORD_ID814,cust_id36,2025-10-23,Cash,Delivered
+ORD_ID815,cust_id24,2025-10-23,UPI,Delivered
+ORD_ID816,cust_id28,2025-10-23,Debit Card,Pending
+ORD_ID817,cust_id22,2025-10-24,Credit card,Shipped
+ORD_ID818,cust_id25,2025-10-24,Debit Card,Shipped
+ORD_ID819,cust_id16,2025-10-24,Debit Card,Pending
+ORD_ID820,cust_id18,2025-10-25,Cash,Delivered
+ORD_ID821,cust_id09,2025-10-26,Cash,Delivered
+ORD_ID822,cust_id44,2025-10-26,Debit Card,Delivered
+ORD_ID823,cust_id36,2025-10-26,Cash,Delivered
+ORD_ID824,cust_id12,2025-10-26,Debit Card,Shipped
+ORD_ID825,cust_id31,2025-10-27,Debit Card,Shipped
+ORD_ID826,cust_id14,2025-10-27,Cash,Delivered
+ORD_ID827,cust_id02,2025-10-28,UPI,Delivered
+ORD_ID828,cust_id13,2025-10-29,Cash,Delivered
+ORD_ID829,cust_id46,2025-10-30,Cash,Delivered
+ORD_ID830,cust_id37,2025-10-30,Credit card,Delivered
+ORD_ID831,cust_id03,2025-10-30,Debit Card,Shipped
+ORD_ID832,cust_id33,2025-10-30,UPI,Delivered
+ORD_ID833,cust_id09,2025-10-31,Debit Card,Pending
+ORD_ID834,cust_id23,2025-10-31,Cash,Delivered
+ORD_ID835,cust_id29,2025-10-31,Cash,Delivered
+ORD_ID836,cust_id50,2025-11-01,Debit Card,Confirmed
+ORD_ID837,cust_id42,2025-11-01,Credit card,Delivered
+ORD_ID838,cust_id37,2025-11-01,Credit card,Pending
+ORD_ID839,cust_id47,2025-11-01,UPI,Cancelled
+ORD_ID840,cust_id16,2025-11-01,Cash,Shipped
+ORD_ID841,cust_id37,2025-11-02,UPI,Delivered
+ORD_ID842,cust_id48,2025-11-02,Credit card,Delivered
+ORD_ID843,cust_id31,2025-11-02,Credit card,Shipped
+ORD_ID844,cust_id25,2025-11-02,Credit card,Returned
+ORD_ID845,cust_id02,2025-11-03,Credit card,Shipped
+ORD_ID846,cust_id39,2025-11-03,Cash,Shipped
+ORD_ID847,cust_id03,2025-11-04,Credit card,Delivered
+ORD_ID848,cust_id12,2025-11-04,UPI,Confirmed
+ORD_ID849,cust_id22,2025-11-04,Cash,Pending
+ORD_ID850,cust_id07,2025-11-04,Debit Card,Delivered
+ORD_ID851,cust_id18,2025-11-04,Credit card,Delivered
+ORD_ID852,cust_id43,2025-11-04,UPI,Confirmed
+ORD_ID853,cust_id27,2025-11-04,Debit Card,Delivered
+ORD_ID854,cust_id15,2025-11-04,Debit Card,Delivered
+ORD_ID855,cust_id25,2025-11-05,Debit Card,Delivered
+ORD_ID856,cust_id30,2025-11-05,Credit card,Pending
+ORD_ID857,cust_id14,2025-11-06,Cash,Delivered
+ORD_ID858,cust_id41,2025-11-06,UPI,Shipped
+ORD_ID859,cust_id07,2025-11-06,Cash,Delivered
+ORD_ID860,cust_id48,2025-11-06,Cash,Pending
+ORD_ID861,cust_id35,2025-11-06,Cash,Shipped
+ORD_ID862,cust_id35,2025-11-07,UPI,Delivered
+ORD_ID863,cust_id27,2025-11-07,Debit Card,Delivered
+ORD_ID864,cust_id06,2025-11-08,Credit card,Delivered
+ORD_ID865,cust_id06,2025-11-08,Debit Card,Delivered
+ORD_ID866,cust_id28,2025-11-08,Cash,Delivered
+ORD_ID867,cust_id50,2025-11-09,Credit card,Delivered
+ORD_ID868,cust_id35,2025-11-10,Cash,Delivered
+ORD_ID869,cust_id25,2025-11-12,UPI,Delivered
+ORD_ID870,cust_id16,2025-11-12,Credit card,Delivered
+ORD_ID871,cust_id01,2025-11-13,Credit card,Pending
+ORD_ID872,cust_id12,2025-11-13,UPI,Confirmed
+ORD_ID873,cust_id28,2025-11-14,Debit Card,Confirmed
+ORD_ID874,cust_id31,2025-11-14,Debit Card,Delivered
+ORD_ID875,cust_id47,2025-11-15,Debit Card,Delivered
+ORD_ID876,cust_id36,2025-11-15,Cash,Confirmed
+ORD_ID877,cust_id49,2025-11-16,UPI,Delivered
+ORD_ID878,cust_id19,2025-11-17,Debit Card,Delivered
+ORD_ID879,cust_id33,2025-11-17,Debit Card,Delivered
+ORD_ID880,cust_id06,2025-11-17,UPI,Delivered
+ORD_ID881,cust_id26,2025-11-18,Cash,Shipped
+ORD_ID882,cust_id45,2025-11-18,Debit Card,Delivered
+ORD_ID883,cust_id29,2025-11-18,Credit card,Delivered
+ORD_ID884,cust_id07,2025-11-19,Credit card,Delivered
+ORD_ID885,cust_id11,2025-11-19,UPI,Pending
+ORD_ID886,cust_id40,2025-11-20,Credit card,Confirmed
+ORD_ID887,cust_id23,2025-11-20,Debit Card,Delivered
+ORD_ID888,cust_id03,2025-11-20,Cash,Delivered
+ORD_ID889,cust_id36,2025-11-21,UPI,Delivered
+ORD_ID890,cust_id02,2025-11-21,Debit Card,Delivered
+ORD_ID891,cust_id20,2025-11-22,UPI,Delivered
+ORD_ID892,cust_id43,2025-11-22,UPI,Delivered
+ORD_ID893,cust_id07,2025-11-22,Debit Card,Delivered
+ORD_ID894,cust_id47,2025-11-22,Credit card,Delivered
+ORD_ID895,cust_id19,2025-11-23,UPI,Delivered
+ORD_ID896,cust_id41,2025-11-23,Cash,Shipped
+ORD_ID897,cust_id07,2025-11-23,UPI,Delivered
+ORD_ID898,cust_id28,2025-11-24,UPI,Delivered
+ORD_ID899,cust_id17,2025-11-24,Credit card,Delivered
+ORD_ID900,cust_id48,2025-11-24,Debit Card,Delivered
+ORD_ID901,cust_id17,2025-11-24,Cash,Delivered
+ORD_ID902,cust_id22,2025-11-24,UPI,Delivered
+ORD_ID903,cust_id03,2025-11-24,Debit Card,Confirmed
+ORD_ID904,cust_id18,2025-11-25,Debit Card,Returned
+ORD_ID905,cust_id42,2025-11-26,UPI,Delivered
+ORD_ID906,cust_id03,2025-11-27,Cash,Delivered
+ORD_ID907,cust_id49,2025-11-27,Credit card,Delivered
+ORD_ID908,cust_id02,2025-11-27,Debit Card,Delivered
+ORD_ID909,cust_id24,2025-11-28,Cash,Delivered
+ORD_ID910,cust_id13,2025-11-28,UPI,Pending
+ORD_ID911,cust_id44,2025-11-29,UPI,Pending
+ORD_ID912,cust_id25,2025-11-29,Debit Card,Delivered
+ORD_ID913,cust_id43,2025-11-30,Credit card,Delivered
+ORD_ID914,cust_id42,2025-11-30,Cash,Shipped
+ORD_ID915,cust_id23,2025-11-30,Debit Card,Delivered
+ORD_ID916,cust_id35,2025-11-30,Cash,Confirmed
+ORD_ID917,cust_id06,2025-11-30,Credit card,Cancelled
+ORD_ID918,cust_id49,2025-12-01,UPI,Delivered
+ORD_ID919,cust_id06,2025-12-01,Debit Card,Delivered
+ORD_ID920,cust_id25,2025-12-02,UPI,Cancelled
+ORD_ID921,cust_id03,2025-12-02,Debit Card,Shipped
+ORD_ID922,cust_id04,2025-12-03,Credit card,Delivered
+ORD_ID923,cust_id39,2025-12-04,Cash,Delivered
+ORD_ID924,cust_id45,2025-12-04,Credit card,Delivered
+ORD_ID925,cust_id45,2025-12-04,Debit Card,Shipped
+ORD_ID926,cust_id06,2025-12-05,Debit Card,Cancelled
+ORD_ID927,cust_id45,2025-12-05,Cash,Delivered
+ORD_ID928,cust_id25,2025-12-06,Debit Card,Pending
+ORD_ID929,cust_id25,2025-12-06,UPI,Delivered
+ORD_ID930,cust_id10,2025-12-06,UPI,Returned
+ORD_ID931,cust_id12,2025-12-07,Debit Card,Delivered
+ORD_ID932,cust_id28,2025-12-07,Credit card,Delivered
+ORD_ID933,cust_id25,2025-12-07,Cash,Pending
+ORD_ID934,cust_id01,2025-12-07,Debit Card,Cancelled
+ORD_ID935,cust_id38,2025-12-07,Cash,Delivered
+ORD_ID936,cust_id28,2025-12-08,Credit card,Delivered
+ORD_ID937,cust_id22,2025-12-09,Credit card,Delivered
+ORD_ID938,cust_id22,2025-12-09,Credit card,Delivered
+ORD_ID939,cust_id17,2025-12-10,Cash,Confirmed
+ORD_ID940,cust_id08,2025-12-10,Credit card,Delivered
+ORD_ID941,cust_id27,2025-12-10,Cash,Shipped
+ORD_ID942,cust_id19,2025-12-10,Cash,Delivered
+ORD_ID943,cust_id22,2025-12-11,Debit Card,Shipped
+ORD_ID944,cust_id36,2025-12-12,Credit card,Pending
+ORD_ID945,cust_id49,2025-12-13,Credit card,Cancelled
+ORD_ID946,cust_id23,2025-12-13,Debit Card,Shipped
+ORD_ID947,cust_id11,2025-12-13,Credit card,Delivered
+ORD_ID948,cust_id25,2025-12-13,Cash,Delivered
+ORD_ID949,cust_id12,2025-12-13,Debit Card,Delivered
+ORD_ID950,cust_id06,2025-12-14,UPI,Delivered
+ORD_ID951,cust_id21,2025-12-14,Cash,Confirmed
+ORD_ID952,cust_id47,2025-12-15,Cash,Delivered
+ORD_ID953,cust_id25,2025-12-15,Debit Card,Delivered
+ORD_ID954,cust_id23,2025-12-16,Cash,Delivered
+ORD_ID955,cust_id10,2025-12-16,Cash,Cancelled
+ORD_ID956,cust_id11,2025-12-16,Cash,Delivered
+ORD_ID957,cust_id44,2025-12-17,Credit card,Confirmed
+ORD_ID958,cust_id33,2025-12-17,Credit card,Delivered
+ORD_ID959,cust_id39,2025-12-17,Debit Card,Delivered
+ORD_ID960,cust_id15,2025-12-17,UPI,Delivered
+ORD_ID961,cust_id46,2025-12-17,Cash,Delivered
+ORD_ID962,cust_id04,2025-12-17,Cash,Delivered
+ORD_ID963,cust_id02,2025-12-18,Debit Card,Delivered
+ORD_ID964,cust_id09,2025-12-18,Cash,Delivered
+ORD_ID965,cust_id21,2025-12-18,Debit Card,Shipped
+ORD_ID966,cust_id07,2025-12-18,UPI,Delivered
+ORD_ID967,cust_id26,2025-12-19,Credit card,Shipped
+ORD_ID968,cust_id38,2025-12-19,Credit card,Delivered
+ORD_ID969,cust_id07,2025-12-19,Cash,Delivered
+ORD_ID970,cust_id22,2025-12-20,Debit Card,Shipped
+ORD_ID971,cust_id24,2025-12-20,Cash,Delivered
+ORD_ID972,cust_id23,2025-12-20,Debit Card,Confirmed
+ORD_ID973,cust_id43,2025-12-20,Cash,Confirmed
+ORD_ID974,cust_id02,2025-12-20,Cash,Delivered
+ORD_ID975,cust_id46,2025-12-21,Debit Card,Delivered
+ORD_ID976,cust_id15,2025-12-22,Debit Card,Delivered
+ORD_ID977,cust_id11,2025-12-24,Cash,Delivered
+ORD_ID978,cust_id27,2025-12-24,UPI,Returned
+ORD_ID979,cust_id42,2025-12-24,Debit Card,Delivered
+ORD_ID980,cust_id14,2025-12-24,UPI,Delivered
+ORD_ID981,cust_id24,2025-12-25,Cash,Shipped
+ORD_ID982,cust_id28,2025-12-26,Debit Card,Delivered
+ORD_ID983,cust_id10,2025-12-26,UPI,Delivered
+ORD_ID984,cust_id16,2025-12-26,Debit Card,Delivered
+ORD_ID985,cust_id16,2025-12-27,Credit card,Delivered
+ORD_ID986,cust_id08,2025-12-27,Cash,Delivered
+ORD_ID987,cust_id14,2025-12-27,Credit card,Pending
+ORD_ID988,cust_id08,2025-12-28,UPI,Shipped
+ORD_ID989,cust_id30,2025-12-28,Cash,Delivered
+ORD_ID990,cust_id19,2025-12-28,Credit card,Shipped
+ORD_ID991,cust_id14,2025-12-29,Credit card,Delivered
+ORD_ID992,cust_id21,2025-12-29,UPI,Shipped
+ORD_ID993,cust_id22,2025-12-29,Debit Card,Delivered
+ORD_ID994,cust_id29,2025-12-29,Debit Card,Delivered
+ORD_ID995,cust_id25,2025-12-29,Cash,Delivered
+ORD_ID996,cust_id25,2025-12-29,Cash,Delivered
+ORD_ID997,cust_id04,2025-12-30,Debit Card,Delivered
+ORD_ID998,cust_id39,2025-12-30,Debit Card,Pending
+ORD_ID999,cust_id30,2025-12-31,Debit Card,Confirmed
+ORD_ID1000,cust_id49,2025-12-31,Cash,Delivered
