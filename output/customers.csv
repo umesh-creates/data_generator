@@ -1,51 +1,51 @@
 customer_id,customer_name,gender,age,city,state,join_date
-1,Adweta Talwar,male,59,Kanpur,Uttar Pradesh,2024-01-05
-2,Siddharth Chand,male,35,Mysuru,Karnataka,2024-01-06
-3,Brinda Khalsa,female,69,Mysuru,Karnataka,2024-01-08
-4,Avni Chhabra,female,54,Agra,Uttar Pradesh,2024-01-15
-5,Faqid Gola,female,55,Mumbai,Maharashtra,2024-01-16
-6,Ikshita Kamdar,male,24,Madurai,Tamil Nadu,2024-01-27
-7,Turvi Nazareth,female,22,Thane,Maharashtra,2024-01-31
-8,Yatan Rau,female,64,Vadodara,Gujarat,2024-02-15
-9,Noah Barman,female,58,Surat,Gujarat,2024-02-15
-10,Saumya Mishra,other,57,Nagpur,Maharashtra,2024-02-16
-11,Chandresh Bumb,female,55,Bengaluru,Karnataka,2024-02-17
-12,Siddharth Johal,female,26,Kanpur,Uttar Pradesh,2024-02-24
-13,Neelima Sachdeva,male,47,Madurai,Tamil Nadu,2024-02-28
-14,Charvi Bhat,other,58,Surat,Gujarat,2024-03-02
-15,Chavvi Raman,female,17,Rajkot,Gujarat,2024-03-10
-16,Saumya Talwar,other,69,Lucknow,Uttar Pradesh,2024-03-13
-17,Daksh Pingle,female,19,Bengaluru,Karnataka,2024-03-24
-18,Falak Bakshi,other,29,Madurai,Tamil Nadu,2024-03-26
-19,Shravya Kalita,female,49,Bengaluru,Karnataka,2024-04-10
-20,Radha Gaba,female,25,Ahmedabad,Gujarat,2024-04-21
-21,Baghyawati Vaidya,female,50,Varanasi,Uttar Pradesh,2024-05-03
-22,Anthony Krish,female,44,Lucknow,Uttar Pradesh,2024-05-04
-23,Jai Prabhu,female,76,Varanasi,Uttar Pradesh,2024-05-08
-24,Kamya Gupta,male,42,Nagpur,Maharashtra,2024-06-07
-25,Yashoda Deshmukh,male,66,Rajkot,Gujarat,2024-06-08
-26,Brinda Bhakta,male,37,Chennai,Tamil Nadu,2024-06-23
-27,Madhavi Viswanathan,female,17,Mangaluru,Karnataka,2024-07-08
-28,Yashodhara Parekh,male,24,Agra,Uttar Pradesh,2024-07-08
-29,Imaran Naik,female,57,Coimbatore,Tamil Nadu,2024-07-10
-30,Harita Narayanan,female,54,Mumbai,Maharashtra,2024-07-14
-31,Daksha Bora,female,58,Nagpur,Maharashtra,2024-07-15
-32,Bhavini Trivedi,female,61,Surat,Gujarat,2024-07-22
-33,Isha Bumb,other,67,Tiruchirappalli,Tamil Nadu,2024-08-04
-34,Alexander Sridhar,male,73,Nashik,Maharashtra,2024-08-09
-35,Sai Mody,female,78,Mangaluru,Karnataka,2024-08-26
-36,Harini Modi,male,16,Mangaluru,Karnataka,2024-09-03
-37,Kabir Guha,male,43,Ahmedabad,Gujarat,2024-09-14
-38,Devansh Mandal,female,64,Varanasi,Uttar Pradesh,2024-09-25
-39,Udarsh Bhatnagar,male,58,Nashik,Maharashtra,2024-10-01
-40,Chasmum Wali,male,69,Bengaluru,Karnataka,2024-10-19
-41,Peter Ghosh,male,74,Ahmedabad,Gujarat,2024-10-25
-42,Yuvraj Sen,female,69,Nagpur,Maharashtra,2024-10-25
-43,Agastya Goel,male,56,Mangaluru,Karnataka,2024-10-25
-44,Lucky Dey,female,43,Mangaluru,Karnataka,2024-10-27
-45,Xavier Borra,female,75,Thane,Maharashtra,2024-10-29
-46,Panini Gade,female,54,Tiruchirappalli,Tamil Nadu,2024-11-02
-47,Aarav Bansal,female,76,Vadodara,Gujarat,2024-11-15
-48,Ronith Ramachandran,female,80,Mangaluru,Karnataka,2024-11-26
-49,Qabil Dugar,female,23,Bengaluru,Karnataka,2024-12-06
-50,Aradhana Raval,female,63,Thane,Maharashtra,2024-12-07
+cust_id01,Teerth Nagy,female,46,Mysuru,Karnataka,2024-01-03
+cust_id02,Jagat Palan,other,61,Tiruchirappalli,Tamil Nadu,2024-01-25
+cust_id03,Isaiah Dhawan,female,41,Tiruchirappalli,Tamil Nadu,2024-02-10
+cust_id04,Chatura Gera,female,79,Pune,Maharashtra,2024-02-18
+cust_id05,Radhika Kari,female,69,Hubballi,Karnataka,2024-02-21
+cust_id06,Vidhi Prabhakar,female,14,Nagpur,Maharashtra,2024-02-21
+cust_id07,Sanaya Oommen,male,44,Mysuru,Karnataka,2024-02-22
+cust_id08,Abeer Rout,female,25,Lucknow,Uttar Pradesh,2024-02-29
+cust_id09,Rajeshri Balasubramanian,male,48,Lucknow,Uttar Pradesh,2024-02-29
+cust_id10,Dayita Walia,male,18,Rajkot,Gujarat,2024-03-01
+cust_id11,Logan Gopal,female,17,Tiruchirappalli,Tamil Nadu,2024-03-04
+cust_id12,Samuel Sanghvi,female,27,Agra,Uttar Pradesh,2024-03-21
+cust_id13,Orinder Ghose,male,48,Varanasi,Uttar Pradesh,2024-03-23
+cust_id14,Qarin Sani,female,78,Lucknow,Uttar Pradesh,2024-03-23
+cust_id15,Oscar Choudhary,male,18,Lucknow,Uttar Pradesh,2024-04-09
+cust_id16,Avi Andra,female,62,Chennai,Tamil Nadu,2024-04-12
+cust_id17,Abeer Raj,male,17,Coimbatore,Tamil Nadu,2024-04-17
+cust_id18,Samarth Thakur,female,77,Ahmedabad,Gujarat,2024-04-19
+cust_id19,Amruta Puri,male,22,Surat,Gujarat,2024-04-26
+cust_id20,Yatin Gade,female,43,Tiruchirappalli,Tamil Nadu,2024-05-02
+cust_id21,Dipta Khalsa,female,13,Nagpur,Maharashtra,2024-05-04
+cust_id22,Neelima Wagle,male,53,Hubballi,Karnataka,2024-05-10
+cust_id23,Jagat Chawla,female,27,Surat,Gujarat,2024-05-21
+cust_id24,Anamika Walla,other,58,Coimbatore,Tamil Nadu,2024-06-05
+cust_id25,Harsh Bhargava,male,25,Bengaluru,Karnataka,2024-06-06
+cust_id26,Amaira Koshy,male,23,Rajkot,Gujarat,2024-06-08
+cust_id27,Jyoti Andra,female,78,Bengaluru,Karnataka,2024-06-14
+cust_id28,Pranit Muni,male,58,Coimbatore,Tamil Nadu,2024-07-29
+cust_id29,Azaan Nadkarni,female,73,Nagpur,Maharashtra,2024-08-01
+cust_id30,Kashvi Sem,female,45,Pune,Maharashtra,2024-08-07
+cust_id31,Chaitanya Amble,female,22,Vadodara,Gujarat,2024-08-09
+cust_id32,Wazir Tank,female,77,Thane,Maharashtra,2024-08-12
+cust_id33,Zinal Narain,female,14,Coimbatore,Tamil Nadu,2024-08-14
+cust_id34,Jagrati Narayanan,male,77,Chennai,Tamil Nadu,2024-08-21
+cust_id35,Vaishnavi Baria,male,18,Mangaluru,Karnataka,2024-08-25
+cust_id36,Watika Samra,female,24,Kanpur,Uttar Pradesh,2024-09-09
+cust_id37,Vinaya Reddy,female,54,Nashik,Maharashtra,2024-09-12
+cust_id38,Yashasvi Wason,male,39,Hubballi,Karnataka,2024-09-13
+cust_id39,Gautami Ravel,female,69,Varanasi,Uttar Pradesh,2024-09-14
+cust_id40,Jagvi Soni,male,63,Madurai,Tamil Nadu,2024-09-16
+cust_id41,Vincent Solanki,female,36,Mumbai,Maharashtra,2024-09-19
+cust_id42,Robert Deo,female,19,Ahmedabad,Gujarat,2024-09-23
+cust_id43,Pooja Boase,female,68,Vadodara,Gujarat,2024-09-27
+cust_id44,Faris Sanghvi,female,26,Mumbai,Maharashtra,2024-09-29
+cust_id45,Raghav Sethi,female,44,Madurai,Tamil Nadu,2024-10-13
+cust_id46,Damyanti Lad,female,15,Kanpur,Uttar Pradesh,2024-10-20
+cust_id47,Ekaraj Dua,male,31,Chennai,Tamil Nadu,2024-10-30
+cust_id48,Divya Chahal,female,55,Coimbatore,Tamil Nadu,2024-11-20
+cust_id49,Qushi Sood,female,53,Coimbatore,Tamil Nadu,2024-12-01
+cust_id50,Mitali Balasubramanian,other,50,Nagpur,Maharashtra,2024-12-17

@@ -1,0 +1,51 @@
+products_id,product_name,category,brand,cost_price,selling_price
+P_ID01,Smartphone,Electronics,HP,25000,30000
+P_ID02,Laptop,Electronics,HP,75000,90000
+P_ID03,Tablet,Electronics,Dell,10333,12400
+P_ID04,Desktop PC,Electronics,Lenovo,16458,19750
+P_ID05,Monitor,Electronics,Samsung,4479,5375
+P_ID06,Keyboard,Electronics,Asus,512,615
+P_ID07,Mouse,Electronics,Sony,375,450
+P_ID08,Headphones,Electronics,Sony,187,225
+P_ID09,Earbuds,Electronics,Lenovo,1645,1975
+P_ID10,Bluetooth Speaker,Electronics,Samsung,1254,1505
+P_ID11,Smartwatch,Electronics,Asus,2050,2460
+P_ID12,Fitness Band,Electronics,HP,6250,7500
+P_ID13,Printer,Electronics,Asus,4270,5125
+P_ID14,Scanner,Electronics,Dell,7750,9300
+P_ID15,Webcam,Electronics,Logitech,1333,1600
+P_ID16,Microphone,Electronics,Lenovo,1645,1975
+P_ID17,Power Bank,Electronics,Asus,854,1025
+P_ID18,Charger,Electronics,Apple,583,700
+P_ID19,USB Cable,Electronics,Sony,187,225
+P_ID20,External Hard Drive,Electronics,Acer,8458,10150
+P_ID21,T-Shirt,Clothing,US Polo Assn.,537,645
+P_ID22,Shirt,Clothing,Zara,916,1100
+P_ID23,Polo Shirt,Clothing,Van Heusen,895,1075
+P_ID24,Hoodie,Clothing,US Polo Assn.,1433,1720
+P_ID25,Sweatshirt,Clothing,H&M,1137,1365
+P_ID26,Jacket,Clothing,Puma,1791,2150
+P_ID27,Blazer,Clothing,Levi's,2750,3300
+P_ID28,Jeans,Clothing,Nike,1340,1609
+P_ID29,Trousers,Clothing,Levi's,916,1100
+P_ID30,Chinos,Clothing,Puma,1075,1290
+P_ID31,Cargo Pants,Clothing,US Polo Assn.,1254,1505
+P_ID32,Track Pants,Clothing,Adidas,750,900
+P_ID33,Shorts,Clothing,Puma,447,537
+P_ID34,Kurta,Clothing,Nike,958,1150
+P_ID35,Kurti,Clothing,Wrangler,875,1050
+P_ID36,Saree,Clothing,Nike,1150,1380
+P_ID37,Dress,Clothing,US Polo Assn.,1254,1505
+P_ID38,Skirt,Clothing,US Polo Assn.,895,1075
+P_ID39,Leggings,Clothing,H&M,405,487
+P_ID40,Sweater,Clothing,Levi's,1283,1540
+P_ID41,Pressure Cooker,Home & Kitchen,Philips,1466,1760
+P_ID42,Non-Stick Pan,Home & Kitchen,Borosil,895,1075
+P_ID43,Frying Pan,Home & Kitchen,Cello,650,780
+P_ID44,Cookware Set,Home & Kitchen,Pigeon,2375,2850
+P_ID45,Gas Stove,Home & Kitchen,Prestige,3583,4300
+P_ID46,Induction Cooktop,Home & Kitchen,Hawkins,2100,2520
+P_ID47,Mixer Grinder,Home & Kitchen,Philips,2750,3300
+P_ID48,Air Fryer,Home & Kitchen,Bajaj,4270,5125
+P_ID49,Microwave Oven,Home & Kitchen,Hawkins,8750,10500
+P_ID50,Electric Kettle,Home & Kitchen,Wonderchef,875,1050

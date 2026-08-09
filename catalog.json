@@ -1,40 +1,40 @@
 {
     "categories": {
         "Electronics": {
-            "Samsung": 1.15,
-            "Apple": 1.50,
-            "Dell": 1.10,
-            "HP": 1.00,
-            "Lenovo": 0.95,
-            "Asus": 1.05,
-            "Acer": 0.90,
-            "Sony": 1.25,
-            "LG": 1.10,
-            "Logitech": 1.00
+            "Samsung": 2.15,
+            "Apple": 3.50,
+            "Dell": 3.10,
+            "HP": 3.00,
+            "Lenovo": 3.95,
+            "Asus": 2.05,
+            "Acer": 2.90,
+            "Sony": 2.25,
+            "LG": 2.10,
+            "Logitech": 2.00
         },
         "Clothing": {
-            "Nike": 1.30,
-            "Adidas": 1.25,
-            "Puma": 1.15,
-            "Levi's": 1.20,
-            "H&M": 0.95,
-            "Zara": 1.20,
-            "Allen Solly": 1.10,
-            "Van Heusen": 1.15,
-            "US Polo Assn.": 1.15,
-            "Wrangler": 1.10
+            "Nike": 2.30,
+            "Adidas": 2.25,
+            "Puma": 2.15,
+            "Levi's": 2.20,
+            "H&M": 1.95,
+            "Zara": 2.20,
+            "Allen Solly": 2.10,
+            "Van Heusen": 2.15,
+            "US Polo Assn.": 2.15,
+            "Wrangler": 2.10
         },
         "Home & Kitchen": {
-            "Prestige": 1.15,
-            "Philips": 1.20,
-            "Milton": 1.05,
-            "Cello": 0.95,
-            "Bajaj": 1.05,
-            "Pigeon": 0.90,
-            "Hawkins": 1.10,
-            "Butterfly": 1.00,
-            "Wonderchef": 1.10,
-            "Borosil": 1.15
+            "Prestige": 2.15,
+            "Philips": 2.20,
+            "Milton": 2.05,
+            "Cello": 1.95,
+            "Bajaj": 2.05,
+            "Pigeon": 1.90,
+            "Hawkins": 2.10,
+            "Butterfly": 2.00,
+            "Wonderchef": 2.10,
+            "Borosil": 2.15
         }
     },
     "items": {
