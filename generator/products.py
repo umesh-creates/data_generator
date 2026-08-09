@@ -62,7 +62,7 @@ for clothing_item in catalog['items']['Clothing_items']:
         products['selling_price'].append(selling_price)
 
         count += 1
-print(print('80%', 'completed ✅'))
+print('80%', 'completed ✅')
 count = 0
 for home_products in catalog['items']['Home_kitchen_products']:
     if count == 10:

@@ -44,9 +44,9 @@ for _ in range(1000):
 
 print('80%','completed ✅')
 
+order_status = [ "Pending", "Confirmed", "Shipped", "Delivered", "Cancelled", "Returned"]
+weights = [5, 10, 15, 60, 7, 3]
 for _ in range(1000):
-    order_status = [ "Pending", "Confirmed", "Shipped", "Delivered", "Cancelled", "Returned"]
-    weights = [5, 10, 15, 60, 7, 3]
     rand_order_status = random.choices(order_status, weights= weights, k=1)[0]
     orders['order_status'].append(rand_order_status)
 

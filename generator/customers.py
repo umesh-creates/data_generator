@@ -15,12 +15,12 @@ customers = {
 }
 print('10%','completed ✅')
 # customer name
+fake = Faker('en_IN')
 count = 1
 while True:
     if count == 51:
         break
     else:
-        fake = Faker('en_IN')
         fake_name = fake.name()
         if fake_name not in customers['customer_name']:
             customers['customer_name'].append(fake_name)
