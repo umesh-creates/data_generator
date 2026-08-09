@@ -13,9 +13,6 @@ order_items = {
     'product_id' : [],
     'quantity' : []
 }
-for _ in range(1000):
-    product_id = random.randint(1,50)
-    order_items['product_id'].append(f"P_ID{product_id}")
 
 for _ in range(1000):
     rand_product_id = random.randrange(1,51)
